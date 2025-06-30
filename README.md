@@ -3,13 +3,13 @@
 Task 0: Get Specific Character by ID
 Four queries to fetch individual character details using their IDs (1-4). Each query retrieves:
 
-id
-name
-status
-species
-type
-gender
-# Task 1: Get List of Characters
+#id
+#name
+#status
+#species
+#type
+#gender
+## Task 1: Get List of Characters
 Four queries to fetch paginated lists of characters (pages 1-4). Each query retrieves:
 
 id
